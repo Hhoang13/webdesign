@@ -5,7 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài tập chương 1,2:Các khái niệm, ngôn ngữ HTMLL </title>
 </head>
-<body>
+<body><table>
+        <tr>
+          <td id="td1"></td>
+          <td><a href="./index.html">Bài 1</a></td>
+          <td><a href="./bai2.html" > Bài 2</a></td>
+          <td><a href="./bai3.html">Bài 3</a></td>
+          <td><a href="./bai4.html">Bài 4</a></td>
+          <td></td>
+        </tr>
+      </table>
     <h1>1.HTML Basic</h1>
     <p><li>HTML(HyperText Markup Language) là ngôn ngữ đánh dấu được sử dụng đểc tạo cấu trúc trang web.</li></p>
     <h1>2.HTML Elements </h1>
