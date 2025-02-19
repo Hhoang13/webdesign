@@ -5,7 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài 3 </title>
 </head>
-<body>
+<body><table>
+        <tr>
+          <td id="td1"></td>
+          <td><a href="./index.html">Bài 1</a></td>
+          <td><a href="./bai2.html" > Bài 2</a></td>
+          <td><a href="./bai3.html">Bài 3</a></td>
+          <td><a href="./bai4.html">Bài 4</a></td>
+          <td></td>
+        </tr>
+      </table>
+
    <blockquote><blockquote><blockquote><h1><i>Từ Máy Ảnh Đến Kiệt Tác</i></h1></blockquote>
     <table>
         <tr>
